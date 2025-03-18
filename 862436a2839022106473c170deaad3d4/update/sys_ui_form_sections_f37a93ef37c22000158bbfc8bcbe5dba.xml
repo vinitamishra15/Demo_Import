@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f37a93ef37c22000158bbfc8bcbe5dba" sys_domain="global" table="cmdb_hardware_product_model" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-05-23 15:21:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>ff7a93ef37c22000158bbfc8bcbe5dba</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_hardware_product_model" name="cmdb_hardware_product_model" sys_domain="global" view="7966d7b20a0a0b8c00df74c5f68224fb">f37a93ef37c22000158bbfc8bcbe5dba</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_hardware_product_model" sys_domain="global" view="7966d7b20a0a0b8c00df74c5f68224fb">4c4ad7ef37c22000158bbfc8bcbe5dcf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-05-23 15:21:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmdb_hardware_product_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-05-23 15:21:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>f37a93ef37c22000158bbfc8bcbe5dba</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>cmdb_hardware_product_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Model Management" source="com.snc.model">0a06bddc190312104f3423cebaaa8514</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f37a93ef37c22000158bbfc8bcbe5dba</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 14:41:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Bundle" name="bundle">7966d7b20a0a0b8c00df74c5f68224fb</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b3adef0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_form_sections_f37a93ef37c22000158bbfc8bcbe5dba</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Demo_Import</previous_claim_name>
+        <previous_claim_scope>862436a2839022106473c170deaad3d4</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:19</sys_created_on>
+        <sys_id>90057a66839022106473c170deaad378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:19</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b3adee0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_form_sections_f37a93ef37c22000158bbfc8bcbe5dba</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.model</previous_claim_name>
+        <previous_claim_scope>com.snc.model</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:19</sys_created_on>
+        <sys_id>1c057a66839022106473c170deaad384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:19</sys_updated_on>
+    </sys_claim>
+</record_update>

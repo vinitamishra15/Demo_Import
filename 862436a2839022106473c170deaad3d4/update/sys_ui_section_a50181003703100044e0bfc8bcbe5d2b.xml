@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Information" section_id="a50181003703100044e0bfc8bcbe5d2b" sys_domain="global" table="cmdb_hardware_product_model" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>power_consumption</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 13:36:12</sys_created_on>
+            <sys_id>e867c3b177320110814d99f69c5a99fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 13:36:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rack_units</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 13:36:12</sys_created_on>
+            <sys_id>6c67c3b177320110814d99f69c5a99fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 13:36:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flow_rate</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 13:36:12</sys_created_on>
+            <sys_id>ec67c3b177320110814d99f69c5a99fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 13:36:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sound_power</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 13:36:12</sys_created_on>
+            <sys_id>6067c3b177320110814d99f69c5a99fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 13:36:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 13:36:12</sys_created_on>
+            <sys_id>e067c3b177320110814d99f69c5a99fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 13:36:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>weight</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 13:36:12</sys_created_on>
+            <sys_id>6467c3b177320110814d99f69c5a99fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 13:36:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_lifetime_co2e</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 13:36:12</sys_created_on>
+            <sys_id>e467c3b177320110814d99f69c5a99fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 13:36:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>energy_use</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 13:36:12</sys_created_on>
+            <sys_id>6867c3b177320110814d99f69c5a99fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 13:36:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>energy_star</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 13:36:12</sys_created_on>
+            <sys_id>e867c3b177320110814d99f69c5a99fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 13:36:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Information</caption>
+            <header>false</header>
+            <name>cmdb_hardware_product_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2011-12-15 04:07:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>a50181003703100044e0bfc8bcbe5d2b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>cmdb_hardware_product_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Model Management" source="com.snc.model">0a06bddc190312104f3423cebaaa8514</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</sys_scope>
+            <sys_update_name>sys_ui_section_a50181003703100044e0bfc8bcbe5d2b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 14:41:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b39d4c0000002</claim_timestamp>
+        <metadata_update_name>sys_ui_section_a50181003703100044e0bfc8bcbe5d2b</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Demo_Import</previous_claim_name>
+        <previous_claim_scope>862436a2839022106473c170deaad3d4</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:15</sys_created_on>
+        <sys_id>dbf43a66839022106473c170deaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:15</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b39d4c0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_a50181003703100044e0bfc8bcbe5d2b</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.model</previous_claim_name>
+        <previous_claim_scope>com.snc.model</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:15</sys_created_on>
+        <sys_id>9ff43a66839022106473c170deaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:15</sys_updated_on>
+    </sys_claim>
+</record_update>

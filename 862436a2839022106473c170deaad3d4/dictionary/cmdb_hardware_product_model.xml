@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d206bddc190312104f3423cebaaa85da" extends="cmdb_model" label="Hardware Model" max_length="40" name="cmdb_hardware_product_model" type="collection">
+        <element hint="Number of sockets" label="Socket count" max_length="40" name="socket_count" type="integer"/>
+        <element hint="Useful life of the assets tied to this model" label="Useful life (months)" max_length="40" name="useful_life" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="useful_life" label="Useful life (months)" language="en" table="cmdb_hardware_product_model">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>useful_life</element>
+            <help/>
+            <hint>Useful life of the assets tied to this model</hint>
+            <label>Useful life (months)</label>
+            <language>en</language>
+            <name>cmdb_hardware_product_model</name>
+            <plural>Useful life (months)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2025-01-08 07:01:23</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Useful life (months)</sys_name>
+            <sys_package display_value="Model Management" source="com.snc.model">0a06bddc190312104f3423cebaaa8514</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_hardware_product_model_useful_life_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 14:41:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b3a8020000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_cmdb_hardware_product_model_useful_life_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Demo_Import</previous_claim_name>
+        <previous_claim_scope>862436a2839022106473c170deaad3d4</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:18</sys_created_on>
+        <sys_id>c4057a66839022106473c170deaad320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:18</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b3a8000000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_cmdb_hardware_product_model_useful_life_en</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.model</previous_claim_name>
+        <previous_claim_scope>com.snc.model</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:18</sys_created_on>
+        <sys_id>88057a66839022106473c170deaad320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:18</sys_updated_on>
+    </sys_claim>
+</record_update>

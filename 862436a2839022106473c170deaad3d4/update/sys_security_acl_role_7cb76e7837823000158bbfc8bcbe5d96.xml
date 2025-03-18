@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>bryan.boyle</sys_created_by>
+        <sys_created_on>2012-11-29 18:47:10</sys_created_on>
+        <sys_id>7cb76e7837823000158bbfc8bcbe5d96</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cmdb_hardware_product_model.model_manager</sys_name>
+        <sys_package display_value="Model Management" source="com.snc.model">0a06bddc190312104f3423cebaaa8514</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</sys_scope>
+        <sys_security_acl display_value="cmdb_hardware_product_model">f43ec3c31b302000aebbfbcd2c07132d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7cb76e7837823000158bbfc8bcbe5d96</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:19</sys_updated_on>
+        <sys_user_role display_value="model_manager" name="model_manager">f0fc76431b302000aebbfbcd2c071346</sys_user_role>
+    </sys_security_acl_role>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b3acaf0000001</claim_timestamp>
+        <metadata_update_name>sys_security_acl_role_7cb76e7837823000158bbfc8bcbe5d96</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Demo_Import</previous_claim_name>
+        <previous_claim_scope>862436a2839022106473c170deaad3d4</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:19</sys_created_on>
+        <sys_id>50057a66839022106473c170deaad368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:19</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b3acae0000001</claim_timestamp>
+        <metadata_update_name>sys_security_acl_role_7cb76e7837823000158bbfc8bcbe5d96</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.model</previous_claim_name>
+        <previous_claim_scope>com.snc.model</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:19</sys_created_on>
+        <sys_id>14057a66839022106473c170deaad368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:19</sys_updated_on>
+    </sys_claim>
+</record_update>

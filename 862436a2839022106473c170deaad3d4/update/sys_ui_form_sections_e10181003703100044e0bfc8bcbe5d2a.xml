@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e10181003703100044e0bfc8bcbe5d2a" sys_domain="global" table="cmdb_hardware_product_model" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2011-12-15 04:07:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>a10181003703100044e0bfc8bcbe5d2b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_hardware_product_model" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">e10181003703100044e0bfc8bcbe5d2a</sys_ui_form>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">d3c3b8ff3762100044e0bfc8bcbe5df6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2011-12-15 04:08:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2011-12-15 04:09:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>cf0281003703100044e0bfc8bcbe5dc8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_hardware_product_model" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">e10181003703100044e0bfc8bcbe5d2a</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">e40fed41cbd1220005ee77a4634c9cfc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2011-12-15 04:10:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2011-12-15 04:07:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>ed0181003703100044e0bfc8bcbe5d2c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_hardware_product_model" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">e10181003703100044e0bfc8bcbe5d2a</sys_ui_form>
+            <sys_ui_section caption="Information" display_value="Information" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a50181003703100044e0bfc8bcbe5d2b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2011-12-15 04:09:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-01-18 18:11:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>2829cfcb3727100044e0bfc8bcbe5d8f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_hardware_product_model" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">e10181003703100044e0bfc8bcbe5d2a</sys_ui_form>
+            <sys_ui_section caption="Compatibles" display_value="Compatibles" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">a429cfcb3727100044e0bfc8bcbe5d8c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-01-18 18:22:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2013-01-11 19:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>5309487adfb2300068c383f36bf26338</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_hardware_product_model" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">e10181003703100044e0bfc8bcbe5d2a</sys_ui_form>
+            <sys_ui_section caption="Substitutes" display_value="Substitutes" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">43094cbedf72300068c383f36bf263ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2013-01-11 19:09:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-03-30 17:25:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>4ec1f55237012000fceabfc8bcbe5d0b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_hardware_product_model" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">e10181003703100044e0bfc8bcbe5d2a</sys_ui_form>
+            <sys_ui_section caption="Configuration items" display_value="Configuration items" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">8ac1f55237012000fceabfc8bcbe5d0a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2013-01-11 19:09:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-10-26 18:24:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>775c5bf137113000158bbfc8bcbe5d83</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_hardware_product_model" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">e10181003703100044e0bfc8bcbe5d2a</sys_ui_form>
+            <sys_ui_section caption="Product Catalog" display_value="Product Catalog" name="cmdb_hardware_product_model" sys_domain="global" view="Default view">55f5bd0537f03000158bbfc8bcbe5d9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2013-01-11 19:09:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmdb_hardware_product_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2011-12-15 04:07:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>e10181003703100044e0bfc8bcbe5d2a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>cmdb_hardware_product_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Model Management" source="com.snc.model">0a06bddc190312104f3423cebaaa8514</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e10181003703100044e0bfc8bcbe5d2a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 14:41:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b3ad0b0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_form_sections_e10181003703100044e0bfc8bcbe5d2a</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Demo_Import</previous_claim_name>
+        <previous_claim_scope>862436a2839022106473c170deaad3d4</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:19</sys_created_on>
+        <sys_id>50057a66839022106473c170deaad36e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:19</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</claim_owner_scope>
+        <claim_timestamp>195a9b3ad0a0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_form_sections_e10181003703100044e0bfc8bcbe5d2a</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.model</previous_claim_name>
+        <previous_claim_scope>com.snc.model</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:41:19</sys_created_on>
+        <sys_id>14057a66839022106473c170deaad36e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:41:19</sys_updated_on>
+    </sys_claim>
+</record_update>
