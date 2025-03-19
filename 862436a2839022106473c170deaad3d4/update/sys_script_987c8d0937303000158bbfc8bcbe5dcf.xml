@@ -6,7 +6,7 @@
         <action_insert>false</action_insert>
         <action_query>false</action_query>
         <action_update>true</action_update>
-        <active>true</active>
+        <active>false</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
@@ -34,7 +34,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path/>
         <sys_id>987c8d0937303000158bbfc8bcbe5dcf</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Create child product catalog entries</sys_name>
         <sys_overrides/>
         <sys_package display_value="Product Catalog" source="com.snc.product_catalog">b88cf1d419c312104f3423cebaaa856c</sys_package>
@@ -42,7 +42,7 @@
         <sys_scope display_value="Demo_Import">862436a2839022106473c170deaad3d4</sys_scope>
         <sys_update_name>sys_script_987c8d0937303000158bbfc8bcbe5dcf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-18 14:41:16</sys_updated_on>
+        <sys_updated_on>2025-03-18 15:49:18</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
